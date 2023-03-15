@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/clothing-client/static/css/main.ec78c22c.css",
-    "main.js": "/clothing-client/static/js/main.708a5911.js",
+    "main.css": "/clothing-client/static/css/main.c487b07f.css",
+    "main.js": "/clothing-client/static/js/main.71f1675d.js",
     "static/js/787.ec704a7a.chunk.js": "/clothing-client/static/js/787.ec704a7a.chunk.js",
     "static/media/brends.mp4": "/clothing-client/static/media/brends.423ae03fd37e5f0baf49.mp4",
     "static/media/Raleway-Light.ttf": "/clothing-client/static/media/Raleway-Light.58bcdae09d89ccd8d086.ttf",
     "static/media/signature.png": "/clothing-client/static/media/signature.c6f63caa128d72e7db09.png",
     "index.html": "/clothing-client/index.html",
-    "main.ec78c22c.css.map": "/clothing-client/static/css/main.ec78c22c.css.map",
-    "main.708a5911.js.map": "/clothing-client/static/js/main.708a5911.js.map",
+    "main.c487b07f.css.map": "/clothing-client/static/css/main.c487b07f.css.map",
+    "main.71f1675d.js.map": "/clothing-client/static/js/main.71f1675d.js.map",
     "787.ec704a7a.chunk.js.map": "/clothing-client/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec78c22c.css",
-    "static/js/main.708a5911.js"
+    "static/css/main.c487b07f.css",
+    "static/js/main.71f1675d.js"
   ]
 }
