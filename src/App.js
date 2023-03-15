@@ -4,7 +4,6 @@ import { HashRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import ScrollToTop from "./components/ScrollToTop";
 import Login from "./pages/Login";
-import Announcement from "./components/Announcement";
 /*
 import Signup from "./pages/Signup";
 import Consultation from "./pages/Consultation";
@@ -46,7 +45,7 @@ function App() {
         <div className="App">
             <HashRouter>
                 <ScrollToTop />
-                <Announcement/>
+               
                
                
                 
