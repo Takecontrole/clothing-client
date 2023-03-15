@@ -23,7 +23,6 @@ import Accountmenu from "../components/Accountmenu";
 import Brandsmenu from "../components/Brandsmenu";
 import Collectionsmenu from "../components/Collectionsmenu";
 
-import SwipeGallery from "../components/SwipeGallery";
 import SingleProduct from "../components/SingleProduct";
 import MainCollection from "../components/MainCollection";
 
@@ -36,6 +35,7 @@ import styled from "styled-components"
 import { Link } from "react-router-dom"
 import { mobile } from "../responsive";
 
+//import SwipeGallery from "../components/SwipeGallery";
 
 const Container = styled.div`
   background-color:#C9ADA7 ;
@@ -347,12 +347,6 @@ const dispatch = useDispatch();
 </div>
    
 
-          <GalleryContainer>
-            <GalleryTittle>
-              <h4>Вещи которые должны быть.</h4>
-            </GalleryTittle>
-           <SwipeGallery/>   
-          </GalleryContainer>
      
       <Main/>
       <Brends/>
